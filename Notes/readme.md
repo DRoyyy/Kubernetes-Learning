@@ -5,7 +5,7 @@ The name Kubernetes originates from Greek, meaning helmsman or pilot. Initially 
 
 ### K8S Architecture
 
-![Kubernetes Architecture](k8sarchitecture.png)
+![Kubernetes Architecture](https://github.com/DRoyyy/Kubernetes-Learning/blob/main/Notes/images/k8sarchitecture.png)
 
 ### Basic Terminologies :
 
@@ -371,7 +371,7 @@ The Pod Security Standards define three different policies to broadly cover the 
 
 Users access the Kubernetes API using kubectl, client libraries, or by making REST requests. Both human users and Kubernetes service accounts can be authorized for API access. When a request reaches the API, it goes through several stages, illustrated in the following diagram:
 
-![Kubernetes API](access-control.svg)
+![Kubernetes API](https://github.com/DRoyyy/Kubernetes-Learning/blob/main/Notes/images/access-control.svg)
 
 
 # Basic Commands
